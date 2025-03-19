@@ -1,0 +1,13 @@
+# Ignore Unreal Engine temporary files
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore auto-generated ShaderCache and log files
+*.log
+*.tmp
+*.cache
+
+# Ignore Unreal's build folders (optional)
+Binaries/
+Build/
